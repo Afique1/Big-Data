@@ -1,0 +1,3 @@
+In the Magic Coin Generator game, there are two machines which will take n numbers of coins and generate 2n+1 (for machine 1) and 2n+2 (for machine 2) coins. Initially, one of the machine would be randomly selected to generate the coin(s) for [n=0]. This will only happen once for a new player. Since, the player do not have any coin initially.
+
+Later, if the number of inserted coin is odd, then Machine 1 will generate coins. If the inserted coin number is even, then Machine 2 will generate coins.
